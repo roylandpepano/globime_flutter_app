@@ -1,6 +1,6 @@
 # globime
 
-A new Flutter project.
+Just install it in your android phone.
 
 ## Getting Started
 
